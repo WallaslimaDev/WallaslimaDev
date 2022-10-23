@@ -5,6 +5,12 @@
 
 
  - 💻 Cursando Sistema da Informação 
+ - Estudando:
+ * Python
+ * C
+ * C++
+ * JAVA
+ * HTML
 
 
 
