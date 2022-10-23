@@ -5,12 +5,12 @@
 
 
  - 💻 Cursando Sistema da Informação 
- - Estudando:
- * Python
- * C
- * C++
- * JAVA
- * HTML
+ - ⚡ Linguagens em estudo: Python, C, C++, Java e HTML
+
+
+
+## Sempre em busca de novos conhecimentos ⭐
+
 
 
 
